@@ -1,2 +1,2 @@
 # learning-javascript
-Short notes on JavaScript for reference
+Short notes on JavaScript for reference (all taken from http://javascript.info)
