@@ -6,10 +6,10 @@ F12 for console
 server-side: "node my.js"<br>
 browser: <script></script>
 
-<script src="/path/to/script.js"></script> absolute from root
+<script src="/path/to/script.js"></script> absolute from root<br>
 <script src="script.js"></script> relative from current page
 
-short: inside script tag
-long: external file
+short: inside script tag<br>
+long: external file<br>
 for cache/speed
 
