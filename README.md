@@ -13,3 +13,10 @@ short: inside script tag<br>
 long: external file<br>
 for cache/speed
 
+separate statements with ;
+
+use comments to describe what happens and why or to disable code<br>
+one-line comments // comment here (shortcut Ctrl+/)<br>
+multiline comments /* comment here */ (shortcut Ctrl+Shift+/)
+
+
