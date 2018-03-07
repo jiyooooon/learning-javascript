@@ -19,4 +19,6 @@ use comments to describe what happens and why or to disable code<br>
 one-line comments // comment here (shortcut Ctrl+/)<br>
 multiline comments /* comment here */ (shortcut Ctrl+Shift+/)
 
-
+always start with
+'use strict';
+at the top
