@@ -45,7 +45,9 @@ Variable names
 
 Constant variables
 - once value is stored, it can't be changed
-- use UPPERCASE and underscores for hard-coded values like hexadecimals and pi<br>
+- use UPPERCASE and underscores for hard-coded values like hexadecimals and pi
+
+Example
 const COLOR_RED = "#F00";<br>
 const COLOR_ORANGE = "#FF7F00";<br>
 const pageLoadTime = /* time taken by a webpage to load */;<br>
