@@ -10,8 +10,7 @@ browser: <script></script>
 <script src="script.js"></script> relative from current page
 
 short: inside script tag<br>
-long: external file<br>
-for cache/speed
+long: external file for cache/speed
 
 separate statements with ;
 
