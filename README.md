@@ -55,8 +55,8 @@ let color;<br>
 color = COLOR_ORANGE;<br>
 alert(color); // #FF7F00
 
-JavaScript is "dynamically typed"
-Dynamically typed is when a variable is not bound to any specific data type
+JavaScript is "dynamically typed"<br>
+Dynamically typed is when a variable is not bound to any specific data type<br>
 There are 7 basic data types
 
 1) number - integer, floating point numbers, Infinity, -Infinity, NaN (error, sticky meaning if a part is NaN, the whole result is NaN)
