@@ -66,8 +66,8 @@ let name = "John";<br>
 alert( `Hello, ${name}!` ); // embed variable... Hello, John!<br>
 alert( `the result is ${1 + 2}` ); // embed expression... the result is 3
 3) boolean - true, false, can come as result of comparisons
-4) "null" value - nothing, empty value
-5) "undefined" value - value not assigned, only used for checks to see if the variable is assigned or similar (use null instead)
+4) "null" value - nothing, empty value, use null to set variable value to empty
+5) "undefined" value - value not assigned, only used for checks to see if the variable is assigned
 6) objects (not primitive like the rest, stores collections of data) and symbols (unique identifiers for objects)
 7) typeof - returns data type, useful when we want to process values of different types differently or for quick checking<br>
 supports two forms of syntax<br>as an operator: typeof x<br>function style: typeof(x)
