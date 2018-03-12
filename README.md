@@ -71,3 +71,42 @@ alert( `the result is ${1 + 2}` ); // embed expression... the result is 3
 7) typeof - returns data type, useful when we want to process values of different types differently or for quick checking<br>
 supports two forms of syntax<br>as an operator: typeof x<br>function style: typeof(x)
 
+Type Conversion - operators and functions automatically convert a value to the right type
+
+But sometimes we will need to explicitly convert a value manually to put things right
+- String conversion: String(value);
+- Number conversion: Number(value);
+  - undefined becomes... NaN
+  - null becomes... 0
+  - true and false becomes... 1 and 0
+  - string becomes... whitespaces from start/end are removed, then if remaining string is empty... result is 0 and error is NaN
+  - alert ( 1 + '2' ); // addition '+' concatenates strings so result would be '12' string type
+- Boolean conversion: Boolean(value);
+  - values that are 0, empty string, null, undefined, NaN become false (except for string "0" and " " which is true)
+  - other values become true
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
