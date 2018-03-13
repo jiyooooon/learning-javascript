@@ -85,6 +85,17 @@ But sometimes we will need to explicitly convert a value manually to put things 
   - values that are 0, empty string, null, undefined, NaN become false (except for string "0" and " " which is true)
   - other values become true
   
+  
+Operators is addition +, multiplication *, subtraction -, etc<br>
+Operators runs from left to right and addition '+' concatenates and converts into string<br>
+Example<br>
+alert (2 + 2 + '1'); // "41"<br>
+Operand or arguments is what operators are applied to (5*2... left operand is 5 and right operand is 2)<br>
+Unary if it has single operand<br>
+Binary if it has two operands
+  
+  
+  
 
 
 
